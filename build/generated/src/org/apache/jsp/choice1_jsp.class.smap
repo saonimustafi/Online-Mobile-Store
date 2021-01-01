@@ -1,0 +1,16 @@
+SMAP
+choice1_jsp.java
+JSP
+*S JSP
+*F
++ 0 choice1.jsp
+choice1.jsp
+*L
+5,15:44
+20,5:60
+24,17:65
+41,5:83
+45,12:88
+57,2:101
+58,8:103
+*E
